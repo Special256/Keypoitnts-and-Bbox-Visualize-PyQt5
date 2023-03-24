@@ -1,4 +1,4 @@
-# Keypoitnts-and-Bbox-Visualize-PyQt5
+# Keypoitnts-and-Bbox-Visualizer-PyQt5
 In this repository, I use PyQt5 to visualize the key-points and bbox coordinates by mapping the json file to the images in a directory.
 
   -> The purpose behind this project was to be able to create bbox grount truth for the task of object detection in cases where the 
